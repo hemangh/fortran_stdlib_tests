@@ -1,0 +1,1 @@
+/usr/bin/f95 -g CMakeFiles/test_fstdlib.dir/test_Fortran_stdlib.f90.o -o test_fstdlib  /usr/local/lib/libfortran_stdlib.a 

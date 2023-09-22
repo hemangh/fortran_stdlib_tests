@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/gharibnejad/Fortran_projects/tests/fortran_stdlib_tests/build",
+  "command": "/usr/bin/f95  -I/usr/local/include/fortran_stdlib/GNU-10.3.0 -g -c /home/gharibnejad/Fortran_projects/tests/fortran_stdlib_tests/test_Fortran_stdlib.f90 -o CMakeFiles/test_fstdlib.dir/test_Fortran_stdlib.f90.o",
+  "file": "/home/gharibnejad/Fortran_projects/tests/fortran_stdlib_tests/test_Fortran_stdlib.f90"
+}
+]
